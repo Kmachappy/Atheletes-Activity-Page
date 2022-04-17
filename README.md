@@ -22,7 +22,7 @@
 
 # About
 <div align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">
+    <a href="https://kmachappy.github.io/">
         <img src="https://i.imgur.com/HGX8twB.png" alt="Logo" width="600" height="400">
     </a>
 </div>
